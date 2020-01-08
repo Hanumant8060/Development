@@ -1,0 +1,20 @@
+[
+	{
+		"company_name": "hindalco",
+		"share_price": 110,
+		"company_symbol": "hnd",
+		"company_shares": 250
+	},
+	{
+		"company_name": "yesbank",
+		"share_price": 90,
+		"company_symbol": "ysb",
+		"company_shares": 200
+	},
+	{
+		"company_name": "bankofbaroda",
+		"share_price": 210,
+		"company_symbol": "bob",
+		"company_shares": 150
+	}
+]
